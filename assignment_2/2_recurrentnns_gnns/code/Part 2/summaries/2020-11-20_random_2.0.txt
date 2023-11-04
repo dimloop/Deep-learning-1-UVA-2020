@@ -1,0 +1,27 @@
+random, temperature = 2.0 
+
+--------------
+Training Step: 0
+--------------
+YLLLLL                         
+
+--------------
+Training Step: 12500
+--------------
+Cat was the same that the first
+
+--------------
+Training Step: 25000
+--------------
+When they were so stronger than
+
+--------------
+Training Step: 37500
+--------------
+You may come to the first came 
+
+--------------
+Training Step: 49999
+--------------
+ll the first came to the fire a
+

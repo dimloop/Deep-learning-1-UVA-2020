@@ -1,0 +1,27 @@
+random, temperature = 0.5 
+
+--------------
+Training Step: 0
+--------------
+Ikkeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+--------------
+Training Step: 12500
+--------------
+I will give you the stairs, and
+
+--------------
+Training Step: 25000
+--------------
+s the stars, and the soldier wa
+
+--------------
+Training Step: 37500
+--------------
+d the stars, and the shoe is a 
+
+--------------
+Training Step: 49999
+--------------
+Hans were sitting before the wo
+
